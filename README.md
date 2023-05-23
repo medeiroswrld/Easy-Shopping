@@ -10,5 +10,8 @@
             <h3> consegui deixar muito bem responsivo, foi uma das maiores dificuldades, mais feliz com esse resultado!  <h3/>
         
    <img src="https://github.com/medeiroswrld/Easy-Shopping/blob/master/assets/celular.png?raw=true"/>
+        <br>
+               <h2> Gostei muito de tudo nesse projeto, me desenvolvi e aprendi muito bem, também melhorei muitos meus codigos. <h2/>
+               
    
   
